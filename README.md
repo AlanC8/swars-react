@@ -22,7 +22,7 @@ npm start
 https://cloud.mail.ru/public/59ZY/CEym3Xnc9
 ```
 
-** :dvd: Если увидите это то все OK u can test it**
+### :dvd: Если увидите это то все OK u can test it
 ![image](https://github.com/AlanC8/sws-react/assets/110681275/2d507f16-3ec2-4f87-b570-e392e0c5709f)
 
 ## :bomb: Весь процесс разработки
